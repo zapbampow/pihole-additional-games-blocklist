@@ -1,0 +1,2 @@
+0.0.0.0 kodub.com
+0.0.0.0 vps.kodub.com
